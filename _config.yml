@@ -1,4 +1,4 @@
-title: Thinqat's page
+title: Thinqat
 author: Thinqat (Thinqat1985731)
 description: 
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -42,10 +42,9 @@ plainwhite:
     # - username: jekyll2
     #   instance: example.com
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-#  - about.md
+  navigation:
+    - title: About Me
+      url: /about/
 
 # Build settings
 remote_theme: samarsault/plainwhite-jekyll
