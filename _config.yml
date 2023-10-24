@@ -43,7 +43,7 @@ plainwhite:
 
   navigation:
     - title: About Me
-      url: /about/
+      url: /myblog/about/
 
 # Build settings
 remote_theme: samarsault/plainwhite-jekyll
