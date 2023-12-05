@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-## 概要
+## Bio
 
 自然言語処理に興味がある国公立大学3年。
 
-## お世話になっているツール
+## Certification
+- TOEIC® Listening & Reading Test: 830 / 990 (2023/11/19受験)
+
+## Main Tools
 
 - Git/Github
     - 意外と使い始めは最近の新参者です。
@@ -26,7 +29,7 @@ permalink: /about/
     - 趣味でやっていますが、かれこれ5年以上の付き合いです。
     - アイコンのキャラはMMDのアバターに由来しています。
 
-## お世話になっているフリーソフト
+## Recommended Freeware
 - SumatraPDF
     - Latex関係で見つけ、最小限のツールバーと激軽動作でお世話になっているPDFビューワ。
     - 流石に印刷関係はAcrobat Readerですが、自分で見たり人に見せるときにはこれ一択。
@@ -37,5 +40,5 @@ permalink: /about/
     - 忘れた頃に更新されていて驚いた記憶。
 
 
-## リンク
+## Contact
 GitHub: [@Thinqat1985731](https://github.com/Thinqat1985731)
