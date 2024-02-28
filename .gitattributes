@@ -1,6 +1,6 @@
 * linguist-vendored=true
-*.scss linguist-vendored=false
-*.js linguist-vendored=false
-*.md linguist-vendored=false
-*.yml linguist-vendored=false
-*.xml linguist-vendored=false
+*.scss linguist-detectable=true
+*.js linguist-detectable=true
+*.md linguist-detectable=true
+*.yml linguist-detectable=true
+*.xml linguist-detectable=true
