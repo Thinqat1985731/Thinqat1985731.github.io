@@ -37,7 +37,7 @@ permalink: /about/
   - 流石に印刷関係はAcrobat Readerですが、自分で見たり人に見せるときにはこれ一択。
 - お～瑠璃ね～む
   - ファイルの名前一括でいじるやつ。2019年で更新が止まっていますが、普通に動いてくれます。
-- Archive Decoder <img src="https://forest.watch.impress.co.jp/library/img/file/10820/icon.gif" height="32" width="32" alt="archive decoder icon>
+- Archive Decoder <img src="https://forest.watch.impress.co.jp/library/img/file/10820/icon.gif" height="32" width="32" alt="archive decoder icon">
   - 持ち運び可能な最小限の解凍ソフト。Lhaplusレベルで何でも解凍したいわけではなかったので愛用。
   - 忘れた頃に更新されていて驚いた記憶。
 
