@@ -43,5 +43,5 @@ permalink: /about/
 
 ## Contact
 
-GitHub: [@Thinqat1985731](https://github.com/Thinqat1985731)
+GitHub: [@Thinqat1985731](https://github.com/Thinqat1985731)<br>
 Hugging Face: [@Thinqat1985731](https://huggingface.co/Thinqat1985731)
