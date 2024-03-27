@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Bio
 
-自然言語処理に興味がある国公立大学3年。
+自然言語処理に興味がある国公立大学4年。
 
 ## Certification
 
